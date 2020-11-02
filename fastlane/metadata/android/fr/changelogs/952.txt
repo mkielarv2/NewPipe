@@ -1,4 +1,0 @@
-Améliorations :
-• La lecture automatique est disponible pour tout les services (au lieu de Youtube uniquement)
-
-Corrections :
